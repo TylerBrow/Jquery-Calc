@@ -1,0 +1,19 @@
+Html {
+    box-sizing: border-box;
+}
+
+*,* ::after, *::before {
+    box-sizing: inherit;
+}
+#container {
+    width: 500px;
+    height: 500px;
+}
+button {
+    font-size: 15px;
+}
+input {
+    font-size: 15px;
+    width: 90px;
+    display: block;
+}
